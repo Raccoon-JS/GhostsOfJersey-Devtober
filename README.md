@@ -31,9 +31,9 @@ This will be an entry for:
 </p>
 
 <p align = "center">
-<img src="gamejam-images/barajam-bg.png" height = "240">
-<img src="gamejam-images/Jersey_Devil.png" height = "240">
-<img src="gamejam-images/bi-pride.png" height = "240">
+<img src="gamejam-images/barajam-bg.png" height = "200">
+<img src="gamejam-images/Jersey_Devil.png" height = "200">
+<img src="gamejam-images/bi-pride.png" height = "200">
 </p>
 
 

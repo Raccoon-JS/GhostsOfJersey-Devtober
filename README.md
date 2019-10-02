@@ -2,11 +2,21 @@
 
 This is where I make a game during the month of October 2019.
 
+## Game Jam(s)
+
 This will be an entry for:
 - [Bara Jam 2019](https://itch.io/jam/barajam-2019)
 - [Cryptid Jam](https://itch.io/jam/cryptid-jam)
 - [Gentle Ghost Jam](https://itch.io/jam/gentle-ghost-jam)
 - [Devtober 2019](https://itch.io/jam/devtober-2019)
+
+<p align="center">
+<img src = "gamejam-images/barajam-icon.png">
+<img src = "gamejam-images/gentle-ghosts.png">
+<br>
+<img src = "gamejam-images/Cryptid-Jam-2019.png"><br>
+<img src = "gamejam-images/devtober-banner.png">
+</p>
 
 ## The Game
 

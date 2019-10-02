@@ -11,8 +11,8 @@ This will be an entry for:
 - [Devtober 2019](https://itch.io/jam/devtober-2019)
 
 <p align="center">
-<img src = "gamejam-images/barajam-icon.png">
-<img src = "gamejam-images/gentle-ghosts.png">
+<img src = "gamejam-images/barajam-icon.png" width="240" height="240">
+<img src = "gamejam-images/gentle-ghosts.png" width="240" height="240">
 <br>
 <img src = "gamejam-images/Cryptid-Jam-2019.png"><br>
 <img src = "gamejam-images/devtober-banner.png">

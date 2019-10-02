@@ -28,11 +28,12 @@ This will be an entry for:
 <b>Genre</b>: Visual Novel, Interactive Fiction, horror, & LGBTQ.<br>
 
 <b>Plot</b>: A young married couple died in an accident, only to become ghosts that will fight against the evil Jersey Devil. And the husband learns that his spouse had a male soul all along, and they renew their relations one and other in the afterlife.
+</p>
 
-<img src="gamejam-images/barajam-bg.png" height = "120">
-<img src="gamejam-images/Jersey_Devil.png" height = "120">
-<img src="gamejam-images/bi-pride.png" height = "120">
-
+<p align = "center">
+<img src="gamejam-images/barajam-bg.png" height = "240">
+<img src="gamejam-images/Jersey_Devil.png" height = "240">
+<img src="gamejam-images/bi-pride.png" height = "240">
 </p>
 
 

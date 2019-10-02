@@ -36,8 +36,6 @@ This will be an entry for:
 <img src="gamejam-images/bi-pride.png" height = "200">
 </p>
 
-
-
 ## Tools I will be using
 
 - Emacs

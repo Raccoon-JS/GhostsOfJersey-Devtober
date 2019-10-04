@@ -2,6 +2,12 @@
 
 This is where I make a game during the month of October 2019.
 
+Programer & Designing: Raccoon-JS
+
+Dialogues: Senshi Sun
+
+Story & Characters: Raccoon-JS
+
 ## Game Jam(s)
 <p align="center">
   <b>This will be an entry for:</b>

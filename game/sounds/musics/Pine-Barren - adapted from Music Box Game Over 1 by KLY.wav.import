@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Pine-Barren - adapted from Music Box Game Over 1 by KLY.wav-6356b65c5568ae04c1984038a3f72985.sample"
+
+[deps]
+
+source_file="res://sounds/musics/Pine-Barren - adapted from Music Box Game Over 1 by KLY.wav"
+dest_files=[ "res://.import/Pine-Barren - adapted from Music Box Game Over 1 by KLY.wav-6356b65c5568ae04c1984038a3f72985.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

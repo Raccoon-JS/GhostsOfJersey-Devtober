@@ -15,3 +15,15 @@ func _on_AnimationPlayer_finished(anim_name):
 		$buttons/credits.disabled = false
 		$buttons/instruct.disabled = false
 	pass # Replace with function body.
+
+func _start_pressed(): # Start the game.
+	global.goto_scene("res://scenes/game.tscn")
+	pass # Replace with function body.
+
+func _credits_pressed(): # Credits
+	global.goto_scene("res://scenes/credits.tscn")
+	pass # Replace with function body.
+
+func _on_instruct_pressed(): # Instruction
+	global.goto_scene("res://scenes/instruction.tscn")
+	pass # Replace with function body.

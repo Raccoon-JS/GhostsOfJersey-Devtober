@@ -22,6 +22,7 @@ config/icon="res://icon.png"
 [autoload]
 
 colors="*res://scripts/colors.gd"
+global="*res://scripts/global.gd"
 
 [display]
 

@@ -17,6 +17,7 @@ _global_script_class_icons={
 
 config/name="Ghosts of New Jersey"
 run/main_scene="res://scenes/opening_sequence.tscn"
+boot_splash/image="res://images/boot_splash.png"
 config/icon="res://icon.png"
 
 [autoload]

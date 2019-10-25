@@ -1,3 +1,7 @@
 [gd_scene format=2]
 
 [node name="opening_sequence" type="Node"]
+
+[node name="color_background" type="ColorRect" parent="."]
+margin_right = 800.0
+margin_bottom = 600.0

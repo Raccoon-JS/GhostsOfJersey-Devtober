@@ -46,4 +46,4 @@ Story & Characters: Raccoon-JS
 - GNU Image Manipulation Program
 - Audacity
 
-Design with MX Linux 18.3 and Ubuntu 19.01 (and maybe 19.10 version or Windows 10).
+Design with MX Linux 18.3 and Ubuntu 19.04 (and maybe 19.10 version or Windows 10).

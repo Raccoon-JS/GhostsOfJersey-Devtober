@@ -8,6 +8,11 @@ func _ready():
 	current_scene = root.get_child(root.get_child_count() - 1)
 	pass
 
+func _input(event):
+	if event.is_action_pressed("QUIT"):
+		get_tree().quit()
+	pass
+
 func goto_scene(path):
 	new_scene = ResourceLoader.load(path).instance()
 	get_tree().get_root().add_child(new_scene)

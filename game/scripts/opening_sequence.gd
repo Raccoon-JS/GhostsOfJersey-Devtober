@@ -9,6 +9,11 @@ func _ready():
 	$player.play("opening")
 	pass # Replace with function body.
 
+func _input(event):
+	if event.is_action_pressed("left_mouse_button"):
+		global.goto_scene("res://scenes/menu.tscn")
+	pass
+
 func _on_player_animation_finished(anim_name):
 	if anim_name == "opening":
 		global.goto_scene("res://scenes/menu.tscn")

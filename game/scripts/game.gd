@@ -54,7 +54,7 @@ func write(passage = null, b_image = null, b_image_color = null, b_color = null)
 	
 func write_component():
 	if clicks == (original_queue_size - 1):
-		global.goto_scene("res://scenes/menu.tscn")
+		global.goto_scene("res://scenes/authorsNote.tscn")
 	else:
 		background.color = event_queue[event_queue.size() - 1]["next_color"]
 		image_background.texture = load(event_queue[event_queue.size() - 1]["next_image"])

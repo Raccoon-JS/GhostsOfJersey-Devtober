@@ -7,7 +7,7 @@
 [ext_resource path="res://scripts/story.gd" type="Script" id=5]
 
 [sub_resource type="DynamicFont" id=1]
-size = 24
+size = 20
 font_data = ExtResource( 3 )
 
 [node name="game" type="Node"]

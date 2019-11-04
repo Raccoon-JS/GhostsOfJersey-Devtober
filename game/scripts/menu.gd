@@ -18,7 +18,7 @@ func _on_AnimationPlayer_finished(anim_name):
 	elif anim_name == "closing":
 		match button_path:
 			"start":
-				global.goto_scene("res://scenes/game.tscn")
+				global.goto_scene("res://scenes/character_choice.tscn")
 			"credits":
 				global.goto_scene("res://scenes/credits.tscn")
 			"instruct":

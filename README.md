@@ -38,6 +38,14 @@ Story & Characters: Raccoon-JS
 <img src="gamejam-images/bi-pride.png" height = "200">
 </p>
 
+## Chapters completed:
+
+- Prologue (Completed)
+- Chapter 1 (Coming Soon)
+- Chapter 2 (Coming Soon)
+- Chapter 3 (Coming Soon)
+- Chapter 4 (Coming Soon)
+
 ## Tools I will be using
 
 - Emacs
